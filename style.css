@@ -39,7 +39,7 @@ a{
   padding: 8px 12px;
 }
 .navbar__menu li:hover{
-  background-color: var(--background-color);
+  background-color: var(--accent-color);
   border-radius: 4px;
 }
 .navbar__icons{
