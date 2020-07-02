@@ -61,7 +61,7 @@ a{
   color: var(--accent-color);
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1440px){
   .navbar{
     flex-direction: column;
     align-items: flex-start;
